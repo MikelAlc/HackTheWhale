@@ -16,6 +16,7 @@ This project has three functionalities
 - Python
 - pandas
 - matplotlib
+- Flask
 - Jupyter Notebooks
 - Git/GitHub
 - PythonAnywhere
